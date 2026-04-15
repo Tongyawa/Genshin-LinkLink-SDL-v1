@@ -1,9 +1,18 @@
-# 🧩 Genshin-LinkLink-SDL-v1 (原神连连看)
+<div align="center">
 
-![C](https://img.shields.io/badge/Language-C-blue.svg)
-![SDL2](https://img.shields.io/badge/Library-SDL2-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-Archived-purple.svg)
+# 🧩 原神连连看 Genshin-LinkLink-SDL-v1
+
+<!-- 徽章 -->
+<img src="https://img.shields.io/badge/Language-C-blue.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Library-SDL2-green.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Status-Archived-purple.svg" />
+
+基于纯 **C 语言** 与 **SDL2** 图形库开发的原神主题“连连看”游戏。
+
+</div>
+
+---
 
 基于纯 **C 语言** 与 **SDL2** 图形库开发的原神主题“连连看”游戏。
 > 这是我在 **2022年8月（初三暑假）** 编写的练手项目，现作为个人编程历程的存档开源展示。虽然代码全写在了一个 `main.c` 里，结构十分青涩，但它见证了一个少年最初探索图形化界面和算法的时光
